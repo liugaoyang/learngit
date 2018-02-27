@@ -1,2 +1,3 @@
-learngit ²âÊÔ;
-Ìí¼Ó 1;
+learngit git;
+æ·»åŠ  1;
+æ·»åŠ  2;
